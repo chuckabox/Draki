@@ -1,6 +1,6 @@
 # Draki
 
-🏆 **Winner, Climate Hack-tion 2026** (COP31 Climate Awareness & Education track)
+🏆 **Overall winner, Climate Hack-tion 2026**
 
 [![Draki home page: "Your whole farm, ready for the next flood"](docs/images/home.jpg)](https://climate-tion.vercel.app)
 
@@ -15,7 +15,7 @@
 | **2035 target** | Climate action education for all, and climate-resilient farming (COP31 Action Agenda) |
 | **For** | Farmers on floodplains. First users: cane growers on the lower Richmond River, NSW (Coraki, Woodburn, Broadwater) |
 | **Team** | Team Pixelers, Australia |
-| **Result** | 🏆 Winner, Climate Hack-tion 2026 (announced 12 Oct 2026) |
+| **Result** | 🏆 Overall winner, Climate Hack-tion 2026 (announced 12 Oct 2026) |
 | **Status** | Working prototype, checked against satellite radar and every recorded flood since 2009 |
 
 *Draki* is Fijian for "weather". Our first prototype modelled Fiji's Ba River. Draki runs only on free global data, so the same method can reach Pacific island farms, where field-level flood maps are rare.
